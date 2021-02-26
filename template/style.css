@@ -1,0 +1,9 @@
+header, section, footer, aside, nav, article {
+    display: block;
+}
+body {
+    color: #666666;
+}
+aside {
+    color: #666777;
+}
