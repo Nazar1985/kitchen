@@ -9,6 +9,8 @@ conda==4.3.16
 distlib==0.3.1
 Django==3.1.7
 django-bootstrap4==2.3.1
+django-cleanup==5.1.0
+easy-thumbnails==2.7.1
 et-xmlfile==1.0.1
 filelock==3.0.12
 gunicorn==20.0.4
@@ -16,6 +18,7 @@ idna==2.10
 jdcal==1.4.1
 openpyxl==3.0.6
 phonenumbers==8.12.18
+Pillow==8.1.0
 pipenv==2020.8.13
 pycosat==0.6.3
 pytz==2021.1
